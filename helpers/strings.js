@@ -46,7 +46,7 @@ module.exports = () =>
         '🔑 Great! *Banofbot* will now respond only to command calls from *anyone* in this chat.',
       ru:
         '🔑 Чудно! *Banofbot* теперь реагирует на команды, посланные *любыми пользователями*, в этом чате.',
-    },
+    }
     '$[1] would like to kick $[2]. Do you agree?': {
       en: '$[1] would like to kick $[2]. Do you agree?',
       ru: '$[1] хочет кикнуть $[2] из чата. Согласны?',
